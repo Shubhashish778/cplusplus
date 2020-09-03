@@ -10,5 +10,5 @@ int main()
 }
 
 
-OUTPUT:
-It gives out ascii character of range 0-255.
+//OUTPUT:
+//It gives out ascii character of range 0-255.
